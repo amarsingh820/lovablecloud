@@ -3,6 +3,6 @@
   "description": "CloudStream Extensions",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/USERNAME/REPO/main/plugins.json"
+    "https://raw.githubusercontent.com/amarsingh820/lovablecloud/main/plugins.json"
   ]
 }
